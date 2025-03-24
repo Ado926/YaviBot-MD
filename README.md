@@ -1,2 +1,2 @@
 # YaviBot-MD
-Bot WhatsApp :D
+Simple Bot WhatsApp 
